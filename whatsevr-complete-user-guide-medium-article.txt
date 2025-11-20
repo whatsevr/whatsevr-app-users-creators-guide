@@ -1,0 +1,1082 @@
+# Whatsevr: The Complete Guide to Sharing What Matters (And Discovering What’s Next)
+
+## Introduction
+
+Most social apps try to squeeze you into one box: short videos, polished photos, or quick chats. **Whatsevr** takes a different approach. It’s built around a simple idea: let you share *whatever* matters most—memories, offers, work, community projects, or just random thoughts—without forcing you into a single format.
+
+Instead of juggling multiple apps for content, communities, messaging, portfolio, and random fun, Whatsevr brings everything into one place. You can post long-form videos, bite-sized Flicks, photo carousels, story-like Memories, rich Offers, and even PDFs that double as your professional portfolio. You can join communities, DM people, jump into random video chats, and get AI-powered help when you’re stuck.
+
+In this guide, we’ll walk through the full Whatsevr journey—from your very first login to advanced features like Sneekpeek random video calls, AI assistant chats, and detailed alerts. Along the way, you’ll see practical examples, real-world use cases, and simple tips to help you get the most out of the app.
+
+By the end, you’ll know how to:
+
+- Set up your account and switch between multiple profiles
+- Create every type of content Whatsevr supports
+- Discover new people, posts, and communities you’ll actually care about
+- Engage in meaningful ways with comments, reactions, and shares
+- Build and manage communities around your interests or work
+- Chat, call, and connect with people in real time
+- Use AI and reporting tools to stay safe and informed
+
+*Pro tip 💡: Treat this guide like a tour. You don’t have to master everything at once—just start with what feels natural and come back when you’re ready for more.*
+
+---
+
+## Getting Started: From Install to First Post
+
+### Creating an Account with OTPless
+
+Whatsevr uses **OTPless authentication**, which means you can sign up and log in without juggling one-time codes every time.
+
+When you first open the app, you’ll be asked how you want to continue:
+
+- **Phone number** – Use your mobile number to authenticate.
+- **Email** – Sign in with an email address if you prefer.
+- **WhatsApp** – Connect through WhatsApp for a familiar flow.
+
+You’ll go through a simple verification process handled by OTPless. Once you’re verified, Whatsevr creates your account and takes you to the main experience—no long forms, no passwords to memorize.
+
+*Tip ✨: Pick the login method you’re least likely to change (often your phone number or primary email). It keeps your access stable over time.*
+
+### Logging Back In as a Returning User
+
+The next time you open Whatsevr, you won’t need to repeat the whole signup process.
+
+- If you’ve already authenticated on this device, Whatsevr logs you in automatically.
+- If you logged out, you can tap your preferred OTPless method again (Phone/Email/WhatsApp) and get right back in.
+
+You don’t have to remember a password or dig through SMS codes; OTPless handles the heavy lifting behind the scenes.
+
+### Multi-Account Support and Switching
+
+If you play different roles—maybe you’re a creator, a professional, and a community moderator—Whatsevr lets you maintain **multiple accounts** in one app.
+
+You can, for example:
+
+- Keep a **personal account** for friends, memories, and casual posts
+- Run a **professional portfolio account** for clients and work
+- Manage a **community or brand account** with its own content and followers
+
+Within the app, you can add additional accounts and switch between them without logging out completely.
+
+Use this flow when you need it:
+
+1. Open the account switcher from your profile or account menu.
+2. Add a new account using OTPless authentication.
+3. Switch between accounts with a couple of taps.
+
+*Pro tip 💡: If you collaborate on a community or brand, keep that identity as a separate account so your personal content and notifications stay cleaner.*
+
+### Your First-Time Dashboard Experience
+
+Once you’re in, you land on the core Whatsevr experience—your **Home** area.
+
+From here, you’ll typically see:
+
+- A **For You** style feed with content tailored to your interests
+- Quick access to **Communities**, **Offers**, and **Activity** sections
+- A navigation bar that leads to Explore, Messages, profile, and more
+
+Think of this as your control center:
+
+- Scroll to discover what people are posting.
+- Tap into communities that match your interests.
+- Explore different content types without leaving the app.
+
+### Setting Up Your Profile Basics
+
+Before you start posting a lot, it’s worth spending two minutes polishing your profile.
+
+Head to your **Profile** tab and update:
+
+- **Name and username** – Choose something recognizable and searchable.
+- **Profile picture** – Use a clear, friendly image or logo.
+- **Bio** – A short line about who you are or what you do.
+- **Location and basics** – Add your city, birthday, or other optional details.
+
+Even if you plan to use Whatsevr mostly for browsing at first, a completed profile helps people recognize and trust you when you comment, react, or join communities.
+
+*Tip ✨: Think about what you want people to do after visiting your profile—follow you, check your portfolio, message you—and write a bio that nudges them in that direction.*
+
+### Quick Wins for New Users
+
+On day one, you don’t have to explore every feature. Start small:
+
+- Follow a few **people or communities** that genuinely interest you.
+- React to posts you like—don’t overthink it.
+- Save or bookmark content that inspires future posts.
+- Try creating **one simple post** (a photo or short Memory) just to feel the flow.
+
+Once the basics feel familiar, you’re ready to dive into the real magic: Whatsevr’s powerful content creation tools.
+
+---
+
+## Creating Content: Share What Matters in Your Way
+
+Whatsevr is built around flexible content types, each with its own strengths. You don’t have to use them all—but knowing what’s possible helps you pick the right format for your idea.
+
+### WTV Videos: Deep-Dive, Long-Form Stories
+
+**WTV** is where you publish longer videos—think explainers, vlogs, tutorials, interviews, or detailed breakdowns.
+
+When creating a WTV video, you can:
+
+- Upload or record a **long-form video**
+- Add a **caption** that sets context or adds narrative
+- Use **hashtags** so people can discover your content
+- Tag a **location** if it’s relevant (events, cities, venues)
+- Choose or upload a **thumbnail** that stands out
+- Pick the right **aspect ratio** so it looks great on all screens
+- **Tag people or communities** involved in the content
+- Let the app handle **background upload**, so you can keep using Whatsevr while your video finishes
+
+Real-world example: You’re a fitness coach sharing a 15-minute full-body routine. WTV lets you add clear titles, a thumbnail with the workout name, and tags like **#fitness**, **#homeworkout**, and your city.
+
+*Pro tip 💡: Spend an extra minute on your thumbnail and first sentence of the caption. That’s what convinces people to tap and watch.*
+
+### Flicks: Fast, Vertical, Scrollable Moments
+
+**Flicks** are short, vertical videos made for quick, thumb-friendly viewing—similar to TikTok-style reels.
+
+Use Flicks when you want to:
+
+- Share **quick tips**, behind-the-scenes moments, or short skits
+- Highlight a single powerful idea or hook
+- Support longer WTV videos with teaser clips or key highlights
+
+Key features:
+
+- Vertical, **full-screen experience**
+- Designed for **fast swiping** and effortless discovery
+- Works hand-in-hand with **related content**, so a short Flick can point people to a deeper WTV, post, or community
+
+*Tip ✨: Think in hooks. The first 2–3 seconds of a Flick should make someone curious enough not to swipe away.*
+
+### Photo Posts: Visual Stories and Carousels
+
+Photo posts are your go-to for visual storytelling.
+
+You can:
+
+- Upload **multiple images** in one post
+- Use built-in tools to **crop, edit, and adjust** your photos
+- Write a **caption** that ties the visuals together
+- Add **tags and hashtags** so people can find your work
+
+Great use cases:
+
+- Before/after transformations
+- Event highlights
+- Product shots or lookbooks
+- Moodboards and inspo series
+
+*Pro tip 💡: Use the first image as your “cover”—make it the clearest or most intriguing visual of the set to pull people in.*
+
+### Memories: Time-Boxed, Story-Like Posts
+
+**Memories** are temporary, story-style posts that focus on moments rather than permanence.
+
+With Memories, you can:
+
+- Share short-lived content without committing it to your long-term profile
+- Add **CTAs (calls-to-action)**, like “Swipe up,” “Check my profile,” or “DM me”
+- Configure **duration settings**, so you control how long they stay visible
+
+Use Memories for:
+
+- Daily behind-the-scenes updates
+- Limited-time offers or teasers
+- Casual, in-the-moment thoughts
+
+*Tip ✨: Use Memories to test ideas. If a Memory consistently gets strong reactions, consider turning that theme into a full post or WTV video.*
+
+### Offers: Promote Your Work, Services, or Deals
+
+**Offers** are built for promotions—whether you’re a freelancer, small business, creator, or community.
+
+When creating an Offer, you can:
+
+- Use **rich text** to fully describe your service, discount, or product
+- Specify **targeting details** like who it’s for or where it applies
+- Set and update the **status** (e.g., active, expired, upcoming)
+
+Examples:
+
+- “20% off design projects booked this month”
+- “Open for portfolio reviews this weekend”
+- “Community-only discount codes for members”
+
+*Pro tip 💡: Make your Offer specific. Instead of “Offering design services,” try “3 website audit slots this week—includes a 5-page review and action plan.” Specifics sell.*
+
+### PDF Documents: Portfolios and Deep-Dive Resources
+
+Whatsevr supports **PDF uploads**, perfect for:
+
+- Creative or professional portfolios
+- Case studies and project breakdowns
+- Documentation, guides, or learning material
+
+You can:
+
+- Upload a PDF directly from your device
+- Set a **thumbnail** so people immediately understand what it is
+- Share it in relevant contexts (your profile, communities, or messages)
+
+This is especially powerful if you’re a designer, developer, writer, consultant, or educator.
+
+*Tip ✨: Pair a PDF portfolio with a short WTV intro video where you walk through the document. It makes your work feel more personal and memorable.*
+
+### Where You Can Post: Personal, Community, and Portfolio Contexts
+
+Most content types in Whatsevr can be shared in different **contexts**:
+
+- **Personal** – Posts that live on your profile and go to your followers
+- **Community** – Posts tailored to a specific group or niche audience
+- **Portfolio** – More polished, professional work that represents your best output
+
+Before you hit publish, ask:
+
+- “Is this for everyone who follows me, or just for one community?”
+- “Is this casual or something I’d show a client or employer?”
+
+Choosing the right context makes your content feel intentional and ensures it reaches the people who’ll care most.
+
+### Best Practices Across Content Types
+
+No matter what you’re posting, a few principles always help:
+
+- **Clarity over cleverness** – Clear titles and captions beat vague buzzwords.
+- **Context matters** – Explain who the post is for and why it matters.
+- **Tag thoughtfully** – Tag people and communities that genuinely relate.
+- **Respect attention** – Get to the point fast; earn longer watch or read time.
+
+*Pro tip 💡: Build content “chains.” A Flick can tease a WTV video, which links to a PDF, which you then feature in an Offer. That’s how you turn casual viewers into real fans or clients.*
+
+---
+
+## Discovering Content: Home, Explore, Flicks, and Search
+
+Whatsevr isn’t just about sharing; it’s about **discovering** content and people that actually resonate with you.
+
+### Home Feed: Your Daily Starting Point
+
+The **Home** feed is your personal front page.
+
+It typically includes:
+
+- A **For You** section that mixes content based on your interests, follows, and activity
+- A **Communities** view that surfaces posts from groups you’ve joined
+- An **Offers** area highlighting promotions, deals, and professional opportunities
+- An **Activities** area that makes it easy to revisit your **History** and **Saved** items
+
+Use the Home feed when you want a curated, low-effort way to catch up on everything that matters.
+
+*Tip ✨: Make a habit of saving posts that inspire you or that you may want to reference later—it turns your Saved list into a personal idea library.*
+
+### Explore Page: Choose Your Own Adventure
+
+When you’re in the mood to **actively browse**, head to the **Explore** page.
+
+Here, you’ll find multiple **content tabs** that organize Whatsevr’s universe into clear lanes, such as:
+
+- **WTV** – Long-form videos
+- **Offers** – Deals, services, and promotions
+- **Posts** – General feed posts and photos
+- **Memories** – Time-limited, story-like content
+- **Flicks** – Short-form vertical videos
+- Other discovery-focused sections tailored to current trends and content types
+
+You can hop between tabs to:
+
+- Discover creators in your niche
+- Find communities you didn’t know existed
+- Spot opportunities, offers, and collaborations
+
+*Pro tip 💡: When you find a creator you like on Explore, don’t just follow them—check their communities, saved content, and offers. That’s where deeper value often lives.*
+
+### Flicks Feed: Full-Screen, Fast-Paced Discovery
+
+The **Flicks** feed gives you a **TikTok-style, full-screen** video experience.
+
+Here’s what makes it special:
+
+- Videos **auto-play** as you swipe
+- Smart **preloading** keeps the experience smooth
+- A quick **mute/unmute toggle** lets you control audio on the fly
+
+This is perfect for:
+
+- Discovering new creators in seconds
+- Getting quick bursts of inspiration or entertainment
+- Testing your own Flicks with a high-velocity audience
+
+*Tip ✨: If you’re creating Flicks, assume many viewers watch silently at first. Use on-screen text or visuals that still make sense on mute.*
+
+### Search: Find Exactly What You’re Looking For
+
+The **Search** experience in Whatsevr is designed to be broad and powerful.
+
+You can search across multiple content types, including:
+
+- Users and communities
+- WTV videos and Flicks
+- Photo posts and Memories
+- Offers and PDFs
+
+Results are often grouped by type, so you can quickly jump to what you care about.
+
+Filters help you:
+
+- Narrow by content type
+- Focus on specific time ranges, relevance, or popularity
+- Discover niche content around a topic, location, or tag
+
+*Pro tip 💡: Combine search with filters and hashtags. For example, searching “branding” in Offers or WTV with the right tags can surface potential collaborators, mentors, or clients.*
+
+### How Recommendations Work (In Plain Language)
+
+You don’t need to know every algorithm detail to benefit from recommendations.
+
+In simple terms, Whatsevr looks at signals like:
+
+- What you **watch, read, and react** to
+- Who you **follow** and which **communities** you join
+- What you **save**, share, and revisit
+
+Then it uses those patterns to:
+
+- Suggest similar creators and communities
+- Surface related content around your interests
+- Keep your For You and Explore feeds feeling fresh but relevant
+
+*Tip ✨: If your feed feels off, start interacting more with the kind of content you want to see. Your future recommendations will gradually adjust.*
+
+---
+
+## Social Engagement: Comments, Reactions, Shares, and Follows
+
+Posting is only half the story. What really makes Whatsevr feel alive is the way people **engage** with each other.
+
+### Comments: Real Conversations Under Every Post
+
+Under most content, you’ll find a **comments** section where you can:
+
+- Write replies
+- Respond to others in threaded conversations
+- Attach **images** to illustrate a point or give visual feedback
+- **Tag users** so they get notified and can join the conversation
+
+This makes it easy to:
+
+- Ask follow-up questions about a post
+- Share additional context or corrections
+- Start mini-discussions and meet new people
+
+*Pro tip 💡: If you’re a creator, treat your comment section like a community. Reply thoughtfully and encourage people to share their own stories and experiences.*
+
+### Reactions: Six Ways to Respond in a Second
+
+Whatsevr goes beyond the simple “like.” You can react to content with **six different reaction types**, such as:
+
+- Like
+- Love
+- Haha
+- Wow
+- Sad
+- Angry
+
+This gives you more nuance when responding to:
+
+- Good news vs. difficult stories
+- Helpful tutorials vs. funny moments
+- Serious announcements vs. lighthearted memes
+
+You can also **view and filter reactions** to understand how people are responding overall.
+
+*Tip ✨: As a creator, check which reactions dominate your posts. They often reveal how your audience truly feels—more than view counts alone.*
+
+### Sharing: Spread the Word the Right Way
+
+You can share posts in multiple ways:
+
+- **Directly to users** via messages
+- Into **communities** where the post is relevant
+- With a **custom message**, so you can explain *why* you’re sharing it
+
+Examples:
+
+- Sending a helpful guide to a friend who needs it
+- Sharing an offer into a community where members might benefit
+- Passing along a powerful story with your own commentary
+
+*Pro tip 💡: Add a short note when sharing—“Thought of you because…” goes a long way toward building real relationships.*
+
+### Following and Unfollowing: Curating Your Feed
+
+If you like someone’s content, tap **Follow** to:
+
+- See more of their posts in your feed
+- Get a better sense of their work or perspective over time
+
+If your feed starts feeling noisy or irrelevant, don’t be afraid to **unfollow**. You’re in control of what you see.
+
+Following is also a powerful signal to the recommendation system, helping it understand your tastes.
+
+### Post Details and Related Content
+
+Tapping into a **post details** view often reveals more than what you see at first glance:
+
+- Full caption and media
+- Tagged users and communities
+- **Related content** that explores similar topics, creators, or formats
+
+This is a great way to go deeper:
+
+- From a single post to a whole series
+- From one creator to others in the same niche
+- From one idea to many interpretations
+
+*Tip ✨: When a post really hits home, check its related content. You’ll often discover creators you never would have found otherwise.*
+
+---
+
+## Communities: Build, Join, and Grow Your Spaces
+
+Communities are one of Whatsevr’s most powerful features. Instead of everything getting lost in a single feed, **communities** let you gather around specific interests, locations, projects, or identities.
+
+### What Communities Are For
+
+A community can be:
+
+- A **local group** (creators in your city)
+- A **topic-based hub** (UX design, photography, gaming, wellness)
+- A **client or member space** (paid subscribers, coaching groups, course cohorts)
+
+They create shared spaces where:
+
+- People can post to each other
+- Offers and opportunities stay focused
+- Conversations feel more relevant and less random
+
+### Public vs Private Communities
+
+When you interact with communities, you’ll notice two main types:
+
+- **Public communities** – Anyone can discover and join them.
+- **Private communities** – You can find them, but joining requires **approval** from admins or owners.
+
+Public communities are great for open networking and broad audiences. Private ones work better for curated groups, paid memberships, or sensitive topics.
+
+*Tip ✨: Before posting, check the community’s description. It usually hints at what content is most welcome there.*
+
+### Creating a New Community
+
+If you can’t find the right space, create your own.
+
+When setting up a community, you’ll typically:
+
+1. Choose a **name** that clearly reflects its purpose.
+2. Add a **description** that explains who it’s for.
+3. Pick a **privacy setting** (public or private).
+4. Set up a **profile picture and cover media** that make it stand out.
+
+Once created, you can start inviting people, posting content, and shaping the culture.
+
+### Joining and Leaving Communities
+
+To join a community:
+
+- Tap **Join** on public communities—access is often instant.
+- Tap **Request to Join** on private communities—an admin must approve you.
+
+If a community doesn’t feel right anymore, you can **leave** at any time. That way, your feed and notifications stay aligned with what you care about.
+
+### Community Tabs: Understanding the Layout
+
+Communities usually have multiple **tabs** so you can quickly find what you need:
+
+- **About** – Overview, rules, and purpose
+- **Services** – Offers or services that community members provide
+- **Media** – Shared images and visual content
+- **Videos** – WTV and Flicks relevant to the community
+- **Offers** – Promotional posts targeted at members
+- **Tags** – Tagged content and topics that matter to that group
+
+*Pro tip 💡: If you’re new to a community, browse the About and Media tabs first. It gives you a fast sense of tone, quality, and culture.*
+
+### Member Management for Community Owners
+
+If you own or moderate a community, you’ll have extra tools.
+
+You can:
+
+- Review **join requests** for private communities
+- **Accept or decline** new members
+- **Remove** members who violate guidelines
+- **Restrict** or limit problem behavior when necessary
+
+This helps you:
+
+- Protect the experience for everyone
+- Keep conversations on-topic and respectful
+- Build a space people actually want to come back to
+
+### Posting to Communities
+
+When creating content, you can often choose to post:
+
+- To your **personal profile**
+- Directly into a **community**
+
+Posting to a community is powerful when:
+
+- Your content fits a niche audience
+- You want feedback from peers, not just general viewers
+- You’re sharing opportunities, jobs, or offers relevant to that specific group
+
+### Updating Community Profile and Cover Media
+
+Just like a personal profile, a community’s **avatar and cover image** shape first impressions.
+
+Owners can:
+
+- Update the **profile picture** to match branding
+- Refresh the **cover media** to highlight events, themes, or campaigns
+
+*Tip ✨: Update your community cover when you run special events or seasonal themes. It signals activity and gives members something to get excited about.*
+
+### Community Guidelines and Best Practices
+
+Healthy communities don’t happen by accident.
+
+As a member:
+
+- Read and respect the **rules**.
+- Stay on-topic and avoid spam.
+- Use reactions and comments to encourage others.
+
+As an owner or admin:
+
+- Make expectations clear in the **About** section.
+- Intervene early when behavior crosses the line.
+- Highlight great posts and contributors to set the tone.
+
+---
+
+## Messaging & Chat: Conversations That Go Beyond Comments
+
+Sometimes a comment thread isn’t enough. That’s where **messages and chat** come in.
+
+### Accessing Messages
+
+Look for the **Messages** or **Chat** section in the app’s navigation.
+
+From there, you can see:
+
+- Recent conversations
+- Community-related chats
+- Requests or new messages from people you haven’t spoken to before
+
+### Starting Conversations and Sending Messages
+
+You can start a conversation by:
+
+- Tapping **Message** on someone’s profile
+- Sharing a post and adding a **private note**
+- Responding to existing message threads
+
+Once inside a chat, you can:
+
+- Send text and emojis
+- Share content from Whatsevr (posts, offers, videos, etc.)
+- Keep the conversation going in a focused, private space
+
+*Pro tip 💡: If you’re reaching out cold, mention *why* you’re messaging—“Loved your breakdown on X, had a quick question…” makes people far more likely to respond.*
+
+### Message Composer Features
+
+The message composer is designed for quick, expressive communication.
+
+You can typically:
+
+- Type rich text
+- Drop links or references
+- Attach or forward content from across the app
+
+This makes it easy to:
+
+- Turn public posts into deeper 1:1 conversations
+- Share resources with clients or collaborators
+- Keep decision-making and planning in one place
+
+### Online Users and Presence
+
+Many chat screens show when users are **online** or were recently active.
+
+Presence indicators help you:
+
+- Choose the best time to start a conversation
+- Sense whether someone might reply quickly or later
+
+### Community Chats vs Private Chats
+
+You’ll often see two main chat types:
+
+- **Private chats** – 1:1 or small group DMs
+- **Community-related chats** – Conversations linked to specific communities or shared spaces
+
+Use private chats for personal or sensitive topics, and community chats for group discussions that benefit from multiple perspectives.
+
+### Message Notifications and Safety
+
+Message notifications help you keep up with important conversations without checking the app constantly.
+
+At the same time, you always have options to:
+
+- Mute certain chats
+- Limit who can reach you
+- Report or block people if necessary
+
+*Tip ✨: If a conversation starts feeling uncomfortable, you’re never obligated to continue. Use block or report tools if needed, and prioritize your comfort.*
+
+---
+
+## Sneekpeek: Random Video Calls with Real People
+
+**Sneekpeek** is Whatsevr’s unique take on **random video calls**. It’s designed to help you meet new people in a controlled, safe, and purposeful way.
+
+### How Sneekpeek Works
+
+Instead of calling your existing contacts, Sneekpeek matches you with **random candidates** who are also looking to talk.
+
+You join a **queue**, the system finds a match based on your preferences, and you’re both connected via video.
+
+Each call is time-limited and structured to:
+
+- Help you decide quickly whether you vibe with someone
+- Make it easy to move on and meet new people
+
+### Setting Up Your Sneekpeek Profile
+
+Sneekpeek uses a **separate profile** from your main Whatsevr identity. This adds a layer of privacy and lets you present yourself specifically for random calls.
+
+You can configure:
+
+- **Title or headline** – A short statement like “UX designer exploring remote collabs” or “Just here to meet creative people”
+- **Bio** – A few lines about who you are and what you’re open to
+- **Profile picture** – A clear image that matches the tone you want
+- **Preferences** – Basic settings to shape who you’re matched with
+
+*Pro tip 💡: Write your Sneekpeek bio as if you’re introducing yourself in the first 10 seconds of a call. Short, honest, and specific works best.*
+
+### Browsing Online Candidates
+
+Before or between calls, you can usually see an overview of **who’s online** or available.
+
+This helps you:
+
+- Understand how active Sneekpeek is right now
+- Get a feel for the types of people using it at that moment
+
+### Joining the Random Call Queue
+
+When you’re ready to talk, you:
+
+1. Tap to **join the queue**.
+2. Wait while the system finds a **match** based on your profile and preferences.
+3. Get connected automatically once a match is found.
+
+If the match doesn’t feel right, you know there’s always another call coming.
+
+### Video Call Interface: Simple and Focused
+
+Once in a call, you’ll typically see a **split-screen** layout:
+
+- You on one side
+- Your match on the other
+
+Controls are designed to be **minimal and auto-hiding**, so you can focus on the conversation, not the UI.
+
+You’ll still have easy access to:
+
+- Mute/unmute
+- End call
+- Possibly simple actions like switching cameras
+
+### Call Duration, Re-Matching, and Cooldown
+
+Calls are **time-bound**, so they stay focused and low-pressure.
+
+At the end of a call:
+
+- You may get a brief moment to decide whether to match again or move on.
+- The system can automatically start finding another match.
+- A short **5-second cooldown** between calls prevents you from being thrown into back-to-back matches without a breather.
+
+*Tip ✨: Use those few seconds after each call to reflect—Was this type of match right for you? Should you tweak your preferences or bio?*
+
+### Activity Tracking and History
+
+Sneekpeek keeps track of your **session history**, so you can:
+
+- See how many calls you’ve completed
+- Track how much time you’ve spent
+- Review patterns in when or how you connect best
+
+This is especially useful if you’re using Sneekpeek for networking, practice (like public speaking or language learning), or social confidence.
+
+### Safety, Privacy, and Separation from Your Main Account
+
+One of Sneekpeek’s core principles is **safety**.
+
+That’s why it uses a profile that’s **separate from your main Whatsevr account**. Your primary identity, content, and communities stay insulated from random matches.
+
+You also have tools to:
+
+- End calls at any time
+- Avoid reconnecting with someone you don’t want to speak to again
+- Report inappropriate behavior when needed
+
+*Pro tip 💡: Treat Sneekpeek like meeting strangers in a public place—be friendly, but don’t share sensitive information (like home address, passwords, or financial details).*
+
+### Best Practices for Great Sneekpeek Calls
+
+To get the best experience:
+
+- Make sure your **lighting and audio** are decent.
+- Use **headphones** if possible for clearer sound.
+- Start with a friendly **greeting and a simple question**.
+- Be honest about your intentions—networking, practice, fun, or exploring.
+
+Over time, you’ll find a rhythm and style that works for you.
+
+---
+
+## Profile & Account Management: Own Your Presence
+
+Your **profile** is your anchor in Whatsevr. Whether you’re casual or professional, creator or community member, it’s worth getting right.
+
+### Viewing Your Profile vs Others’ Profiles
+
+From your profile, you can:
+
+- See all your main content in one place
+- Review your followers, following, and communities
+- Access settings and account controls
+
+When you visit someone else’s profile, you’ll see:
+
+- Their bio and core details
+- Their posts, offers, and media
+- Any mutual connections or communities (where applicable)
+
+This gives you a quick sense of who someone is and whether you want to follow, message, or collaborate.
+
+### Editing Profile Information
+
+You can edit key details like:
+
+- **Bio** – Your short self-introduction
+- **Location** – Where you’re based or active
+- **Birthday and gender** – Optional but useful in some contexts
+- **Contact details** – Ways people can reach you (as you’re comfortable)
+
+*Tip ✨: Revisit your bio and details every few months. As your focus or goals shift, your profile should reflect that evolution.*
+
+### Work Experience and Education
+
+If you use Whatsevr in a professional or semi-professional way, you can add:
+
+- **Work experience** entries
+- **Education** history
+
+This makes it easier for people to understand your background at a glance, especially when they’re deciding whether to hire you, collaborate with you, or invite you into projects.
+
+### Portfolio Management for Professionals
+
+Portfolios on Whatsevr often combine:
+
+- **PDF uploads** (case studies, decks, portfolios)
+- **WTV walkthroughs** of your work
+- **Offer posts** describing your services
+
+You can organize these on your profile so that when someone visits, they quickly see:
+
+- What you do
+- Examples of your best work
+- How to work with you
+
+*Pro tip 💡: Pin or highlight your strongest work and most relevant offers. Make it easy for visitors to take the next step without digging.*
+
+### Profile Picture and Cover Media
+
+Your **profile picture** and **cover media** set the visual tone.
+
+You can:
+
+- Choose images that match your brand or personality
+- Respect recommended **aspect ratios** so your visuals don’t crop awkwardly
+- Update them as your style or focus changes
+
+For communities, this is just as important—it’s how people recognize where they are in the app.
+
+### Username Changes and AI Suggestions
+
+Whatsevr lets you **change your username**, which is helpful if:
+
+- Your focus shifts (from personal to professional, for example)
+- Your old username no longer feels like “you”
+
+In some flows, you may even get **AI-powered suggestions** to help you find a handle that’s clear, memorable, and available.
+
+### Account Settings and Privacy Controls
+
+Beyond your visible profile, you have **account settings** that give you deeper control.
+
+These may include:
+
+- **Active login sessions** – See which devices are logged in and sign out remotely if needed
+- **Device permissions** – Manage access to camera, microphone, location, notifications, and more
+- **Cache management** – Clear cached data to free storage or resolve small glitches
+
+*Tip ✨: Check your active sessions occasionally. It’s a simple way to ensure your account access stays in your hands.*
+
+### Profile Tabs, Stats, and Optimization
+
+Your profile might include tabs for:
+
+- Posts
+- Videos
+- Offers
+- Portfolio or featured work
+
+You may also see **statistics** like follower counts, views, or engagement, which help you understand what’s landing.
+
+To optimize your profile:
+
+- Align your content with the audience you want
+- Use consistent visuals and tone
+- Keep your best work easy to find at the top
+
+---
+
+## Notifications & Alerts: Staying Informed Without Feeling Overwhelmed
+
+Notifications in Whatsevr are designed to keep you **in the loop**, not chained to your phone.
+
+### The Alerts Tab: Your Activity Inbox
+
+The **Alerts** tab acts like a focused activity feed.
+
+You’ll typically see **five main activity types**, such as:
+
+- **Reactions** – Who reacted to your content and how
+- **Comments** – New replies and threads you’re involved in
+- **Follows** – People who started following you
+- **Mentions** – When someone tags you in content or comments
+- **Invites** – Community invitations or other participation requests
+
+Each alert usually includes:
+
+- The **actor’s name and avatar**
+- A brief **content preview**
+- A **timestamp** so you know when it happened
+
+*Pro tip 💡: Use Alerts as a daily “check-in” space. Respond to comments, acknowledge new followers, and follow up on invites from one place.*
+
+### Push Notifications Powered by Firebase
+
+Outside the app, Whatsevr uses **push notifications** (powered by Firebase) to keep you updated.
+
+These notifications are grouped into around **14 organized channels**, often under broader categories like:
+
+- **Chat** – New messages and conversations
+- **Engagement** – Reactions, comments, mentions
+- **Activity** – Follows, invites, and related events
+- **Other** – System updates, tips, or special announcements
+
+This structure makes it easier to fine-tune what you want to hear about.
+
+### Managing Notification Preferences
+
+You’re not stuck with default settings.
+
+Within Whatsevr and your device settings, you can:
+
+- Turn certain notification types **on or off**
+- Control whether notifications are **silent or prominent**
+- Choose if you want **lock-screen previews** or more privacy
+
+*Tip ✨: If you’re getting overwhelmed, don’t turn everything off. Instead, keep chat and mentions on, and quiet less important categories.*
+
+### Real-Time Updates and Special Features
+
+Some notifications do more than just alert you.
+
+For example, they may include:
+
+- **Progress indicators** (like upload or download progress)
+- **Media controls** (for certain media-related actions)
+- Direct **deep links** into specific sections of the app
+
+This makes notifications a convenient way to jump straight into what matters.
+
+### Troubleshooting Notification Issues
+
+If you’re not receiving notifications as expected:
+
+- Check that notifications are **enabled** inside Whatsevr’s settings.
+- Confirm that your **device settings** allow notifications for the app.
+- Ensure battery saver or focus modes aren’t silently blocking them.
+
+If all else fails, signing out and back in—or reinstalling—can sometimes reset things, but always start with settings.
+
+---
+
+## AI Features & Reporting: Get Help and Stay Safe
+
+Whatsevr includes tools to help you **understand the platform** and **stay safe** while using it.
+
+### EvrMind: Your AI Chat Assistant
+
+Meet **EvrMind**, an AI chat assistant powered by **Gemini 2.5 Flash Lite**.
+
+You can open EvrMind when you:
+
+- Feel lost in the app
+- Want help discovering features
+- Need guidance on how to do something (like creating an offer or reporting content)
+
+Simply ask your question in natural language—no technical jargon required.
+
+*Pro tip 💡: Think of EvrMind like a friendly, always-available helper. Ask, “How do I…?” and let it point you in the right direction.*
+
+### How to Use AI Chat (And Its Limits)
+
+To use EvrMind:
+
+1. Open the **AI chat** or EvrMind entry point in the app.
+2. Type your question or describe your situation.
+3. Read the response and, if needed, ask follow-ups.
+
+Sessions may have a **10-message limit**, encouraging you to keep things focused and concise.
+
+Remember:
+
+- EvrMind is there to help you navigate Whatsevr and understand features.
+- It’s not a replacement for professional advice (legal, medical, financial, etc.).
+
+### Platform Reporting: Keep the Space Healthy
+
+If you come across content or behavior that crosses the line, Whatsevr provides a **reporting system** with clear categories, such as:
+
+- Spam
+- Harassment
+- Violence
+- Misinformation
+- Scam or fraud
+- Impersonation
+- Other
+
+You can report:
+
+- Individual posts or videos
+- Comments
+- Users
+- Communities
+
+### How to Submit a Report
+
+The exact UI may vary, but the general flow is similar:
+
+1. Tap the **more** or **options** button on the content or profile.
+2. Choose **Report**.
+3. Select the **category** that best fits the issue.
+4. Add any **details** that might help reviewers understand what happened.
+
+Your report is then sent to the team or system responsible for moderation.
+
+### Viewing Report History and Status
+
+You may be able to access a **report history** section where you can:
+
+- Review what you’ve reported
+- See **status updates** (e.g., under review, resolved)
+
+This transparency helps you feel confident that issues aren’t disappearing into a void.
+
+### What Happens After Reporting
+
+After a report is submitted, Whatsevr’s moderation process may:
+
+- Review the content and context
+- Take action when policies are violated (such as removal or restrictions)
+- Sometimes notify you of outcome categories, depending on the system design
+
+The exact handling is optimized for user safety and community health, while respecting privacy and fairness.
+
+### Responsible Reporting Guidelines
+
+Reporting is a powerful tool. Use it wisely:
+
+- Report content that **clearly violates** guidelines (not just stuff you dislike).
+- Provide accurate information—avoid exaggeration.
+- Don’t weaponize reporting against people you simply disagree with.
+
+*Tip ✨: When in doubt, check community or platform guidelines first. They’re your best reference for what should and shouldn’t be reported.*
+
+---
+
+## Tips & Tricks: Get the Most Out of Whatsevr
+
+Once you understand the basics, small tweaks in how you use Whatsevr can unlock a lot more value.
+
+### Power User Tips for Engagement
+
+- **Reply to comments** thoughtfully—many long-term followers start with a single good interaction.
+- **Ask questions** at the end of posts to invite conversation.
+- **Cross-link** your content: reference related WTVs, PDFs, or offers when relevant.
+
+### Content Creation Hacks
+
+- Batch-create **Memories** and schedule when you’ll post them manually to keep your presence consistent.
+- Turn one big idea into multiple formats: WTV breakdown, Flick teaser, PDF summary, and an Offer for deeper help.
+- Use **location and tags** when they genuinely add context; skip them when they don’t.
+
+*Pro tip 💡: Aim for sustainable consistency, not perfection. One or two strong posts a week beat ten rushed ones in a day.*
+
+### Discovery Optimization
+
+- Regularly explore **new communities** in your niche.
+- Use **search filters** when looking for collaborators or clients.
+- Pay attention to which hashtags actually bring meaningful engagement—not just views.
+
+### Community Building Strategies
+
+- Start small with a **clear purpose** for your community.
+- Set **simple guidelines** and enforce them kindly but firmly.
+- Highlight member posts and contributions to make people feel seen.
+
+### Time-Saving Features
+
+- Let **background uploads** handle heavy video or PDF files while you continue browsing.
+- Use **Saved** posts as a working folder for ideas, resources, and inspiration.
+- Fine-tune **notifications** so you only get pinged for what truly matters.
+
+### Hidden (or Easy-to-Miss) Wins
+
+- Use **Offers** as an anchor for your services, then reference them in posts, DMs, and communities.
+- Pair **Sneekpeek sessions** with a clear goal—practice pitches, networking, or language learning.
+- Keep your **profile and portfolio** updated; they often do the quiet, ongoing work of attracting opportunities.
+
+---
+
+## Conclusion: Your Space to Share “Whatever” Matters
+
+Whatsevr brings together content creation, communities, messaging, random video calls, AI assistance, and safety tools into one flexible platform. Whether you’re a casual user sharing daily moments, a professional building a portfolio, or a community leader gathering people around a cause, there’s room for you here.
+
+You don’t have to master everything at once. Start with the basics—create a simple post, join a community, respond to a few comments. Then, as you get comfortable, layer in WTV videos, Offers, PDFs, Sneekpeek sessions, and AI-powered help.
+
+The goal is simple: **help you express yourself, connect with the right people, and discover what’s next**—all without forcing you into a single mold.
+
+*Ready to dive in? Open Whatsevr, explore a new corner of the app, and take one small action today—post, comment, join, or say hello. If you ever need more help, check the in-app guides, community guidelines, or ask EvrMind to walk you through your next step.*
