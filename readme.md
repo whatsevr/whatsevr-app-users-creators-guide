@@ -80,7 +80,54 @@ Welcome to the official user documentation for the **Whatsevr App**. This guide 
    - Account Actions (Add/Switch Account, Logout)
    - Troubleshooting
    - Best Practices
-7. [Core Features](features.md)
+7. [Notifications & Alerts](09-notifications-and-alerts.md)
+   - Understanding the Alerts Tab
+   - Types of Notifications (Reactions, Comments, Follows, Mentions, Invites)
+   - Alert Details and Information
+   - Push Notifications Setup and Management
+   - Notification Channels and Categories
+   - Managing Notification Preferences
+   - Activity History Viewing
+   - Real-Time Updates and Alerts
+   - Special Notification Features
+   - Clearing and Managing Alerts
+   - Troubleshooting
+   - Best Practices
+8. [Sneekpeek: Random Video Calls](10-sneekpeek-video-calls.md)
+   - What is Sneekpeek & How It Works
+   - Setting Up Your Sneekpeek Profile
+   - Browsing and Discovering People
+   - Joining the Random Call Queue
+   - The Matching Process & Waiting Experience
+   - Video Call Interface & Controls
+   - During the Call
+   - Ending Calls & Automatic Re-matching
+   - Sneekpeek Activity & History
+   - Editing Your Profile
+   - Safety Features & Best Practices
+   - Understanding Call Preferences
+   - Troubleshooting
+   - FAQs
+   - Best Practices for Video Calls
+   - Tips for Better Matching
+   - Privacy and Anonymity
+9. [AI Features & Platform Reporting](11-ai-and-reporting.md)
+   - EvrMind AI Chat Assistant
+   - What is EvrMind AI & How to Access
+   - Using the AI Chat Interface
+   - AI Capabilities and Limitations
+   - Conversation Management
+   - Platform Reporting System
+   - What Can Be Reported
+   - Report Categories (Spam, Harassment, Violence, etc.)
+   - Submitting Reports
+   - Viewing Your Submitted Reports
+   - What Happens After Reporting
+   - Responsible Reporting Guidelines
+   - Safety and Community Guidelines
+   - Troubleshooting
+   - FAQs
+10. [Core Features](features.md)
    - Home Feed
    - Flicks
    - Communities
@@ -89,7 +136,7 @@ Welcome to the official user documentation for the **Whatsevr App**. This guide 
    - AI Chat
    - Search & Explore
    - Sharing
-8. [Creating Other Content](03-creating-other-content.md)
+11. [Creating Other Content](03-creating-other-content.md)
    - Creating Photo Posts
    - Creating Memories
    - Creating Offers
@@ -100,21 +147,21 @@ Welcome to the official user documentation for the **Whatsevr App**. This guide 
    - Technical Requirements & Limits
    - Best Practices
    - Troubleshooting
-9. [Content Creation](content-creation.md)
+12. [Content Creation](content-creation.md)
    - Creating Posts
    - Uploading Flicks
    - Types of Content
    - Image Editing
-10. [Account Management](account-management.md)
+13. [Account Management](account-management.md)
    - Profile Settings
    - Portfolio & Services
    - Privacy & Security
-11. [Advanced Features](advanced-features.md)
+14. [Advanced Features](advanced-features.md)
    - EvrMind AI
    - Creator Studio
    - Collections
    - Reporting
-12. [Troubleshooting & Support](support.md)
+15. [Troubleshooting & Support](support.md)
 
 ---
 
@@ -133,8 +180,9 @@ Whatsevr is a comprehensive social platform designed to connect you with communi
 - **Communities**: Create or join communities around shared interests, professions, or causes. Public communities allow instant joining, while private communities require owner approval. Community owners can manage members, post content, customize profiles with cover media and services, and moderate their community. Members can view community content across multiple tabs (About, Services, Media, Videos, Offers, Tags), chat with the community, and engage with posts.
 - **Content Discovery**: Personalized Home feed with recommendations, Explore page with multiple content tabs (Wtv, Photos, Flicks, Offers, Memories), unified search across all content types with advanced filters, and activity history tracking
 - **Social Engagement**: Comprehensive interaction system with 6 reaction types (like, love, haha, wow, sad, angry), nested comments with image attachments and user tagging, content sharing to users and communities with custom messages, and follow/unfollow functionality with persistent state management
-- **Sneekpeek**: Exclusive behind-the-scenes content from creators
-- **EvrMind AI Chat**: Intelligent chat assistant for conversations
+- **Notifications & Alerts**: Comprehensive notification system with in-app Alerts tab showing activity history grouped by date (Today, Yesterday, This week, etc.) with five alert types (reactions, comments, follows, mentions, invites) displaying actor information, timestamps, and content previews. Push notification system powered by Firebase Cloud Messaging with 14 organized notification channels grouped into Chat (Private/Community), Engagement (Likes/Comments/Replies/Mentions), Activity (Favorite Posts/Follows/Connection Activity), and Other (Announcements/Sneek Peek/Media Playback/Scheduled/Progress) categories. Features include customizable importance levels, notification sounds and vibration, real-time updates, progress tracking for uploads/downloads, media playback controls, notification actions (open/dismiss/reply), pull-to-refresh, pagination for history, and system-level notification management with channel-specific preferences.
+- **Sneekpeek**: Random video calling feature for meeting new people through instant video chats. Create a separate Sneekpeek profile with title, bio, profile picture, and preferences (gender, availability, call types). Browse online candidates, join the matching queue, and get paired with random users for video calls. Features include split-screen video interface with auto-hiding controls (mic, camera, flip, leave), call duration tracking, automatic re-matching after calls end with seamless 5-second cooldown, activity tracking with alerts and history tabs, and privacy through profile separation from main account. Perfect for casual conversations, making friends, or professional networking in a safe, anonymous environment.
+- **EvrMind AI Chat & Platform Reporting**: Intelligent AI assistant powered by Google's Gemini 2.5 Flash Lite model to answer questions about Whatsevr features, provide step-by-step guidance, and offer conversational assistance with platform-focused knowledge (10-message session limit). Comprehensive reporting system for maintaining community safety with 7 report categories (spam, harassment, violence, misinformation, scam, impersonation, other) allowing users to report content, profiles, communities, or comments with optional descriptions. View submitted report history with status tracking (Under Review, Resolved, Dismissed), confidential reporter identity protection, and moderation team review process. Both features work together to enhance user experience and platform safety.
 - **Messaging & Chat**: Real-time messaging system with private one-on-one chats and community group chats. Send text messages, share content (posts, profiles, communities), edit and delete messages, view online users, and receive push notifications. Message composer supports multi-line text and attachments (in development). Conversations feature decorative backgrounds, delivery status indicators, and rich content previews for shared items.
 - **Profile & Account Management**: Comprehensive profile customization with profile picture and cover media (images/videos with aspect ratio options), personal information editing (name, bio, location, birthday, gender, public contact info), education and work experience tracking with ongoing status support, portfolio mode for professionals with title/status/services/description fields, username updates with AI-powered suggestions, active login session management across devices with remote logout capability, device permissions control with system settings integration, cache management with size display and clearing functionality, and organized profile tabs (About, Services, Media, Videos, Flicks, Offerings, PDFs, Tags) for content organization
 - **Multi-Account Support**: Manage multiple accounts seamlessly on one device
